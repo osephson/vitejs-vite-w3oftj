@@ -1,6 +1,6 @@
 # Introduction
 
-Card Generator - simple tool allows a user to generate a number of cards containing randomized alphabet letters.
+Card Generator - a simple tool allows a user to generate a number of cards containing randomized alphabet letters.
 
 # Logic
 
